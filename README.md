@@ -13,7 +13,7 @@ This program is a simple web application that takes in a multi-line text input, 
 
 ## Example
 
-'''Input
+```Input
 
 dimensions: 1700mmW x 1700mmD x 1100mmH
 lounge height: 1100mmH. 
