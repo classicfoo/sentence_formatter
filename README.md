@@ -16,11 +16,17 @@ This program is a simple web application that takes in a multi-line text input, 
 ### Input
 
 dimensions: 1700mmW x 1700mmD x 1100mmH
+
 lounge height: 1100mmH. 
+
 bookcase height: 1050mmH.  
+
 bookcase colour: standard colour range. 
+
 lounges are mobile!
+
 10 year warranty.
+
 
 ### Output
 
