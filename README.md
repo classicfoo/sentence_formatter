@@ -11,6 +11,21 @@ This program is a simple web application that takes in a multi-line text input, 
 - Copy and paste the text you want to format into the text area.
 - The formatted text will appear in the output area.
 
+## Example
+
+### Input
+
+dimensions: 1700mmW x 1700mmD x 1100mmH
+lounge height: 1100mmH. 
+bookcase height: 1050mmH.  
+bookcase colour: standard colour range. 
+lounges are mobile!
+10 year warranty.
+
+### Output
+
+Dimensions: 1700mmW x 1700mmD x 1100mmH. Lounge height: 1100mmH. Bookcase height: 1050mmH. Bookcase colour: standard colour range. Lounges are mobile! 10 year warranty.
+
 ## The text processing logic
 - Split the input text into sentences based on line breaks (\r\n)
 - Capitalize the first letter of each sentence
