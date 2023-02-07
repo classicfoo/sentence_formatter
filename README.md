@@ -36,7 +36,7 @@ Dimensions: 1700mmW x 1700mmD x 1100mmH. Lounge height: 1100mmH. Bookcase height
 - Join the sentences back into a single string
 
 ## Implementation
-- The height and width of the program is height: 317px; width: 504px;
+- The height and width of the text area is height: 317px; width: 504px;
 - The program uses HTML, CSS, and JavaScript to build the user interface and implement the text processing logic.
 - The text is split into sentences using the following regular expression: /([.!?])\s+(?=[A-Z])/g.
 - The first letter of each sentence is converted to uppercase using the .toUpperCase() method.
